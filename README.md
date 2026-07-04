@@ -3,7 +3,7 @@
 Personal portfolio website showcasing featured data analytics and web development projects, professional experience, and technical skills.
 
 ## Live Portfolio
-- Website: [https://souravv2412.github.io/Souravv2412-Souravdeep-Portfolio-Website/](https://souravv2412.github.io/Souravv2412-Souravdeep-Portfolio-Website/)
+- Website: [https://souravv2412.github.io/Souravv2412-Souravdeep-Portfolio-Website/](https://souravv2412.github.io/)
 
 ## Featured Projects
 - Healthcare 30-Day Readmission Prediction
